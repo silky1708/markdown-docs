@@ -30,12 +30,12 @@
 
 #### checkboxes
 
-- [ ] unchecked checkbox 
+- [ ] unchecked todo item 
 - [x] checked todo item 
 
 #### piece of code 
 
-`piece of code enclosed in one backtick` 
+`piece of code enclosed inside one backtick` 
 
 ```
 piece of code enclosed inside 3 backticks 
@@ -54,8 +54,11 @@ import time
 #### quoting text
 
 > This is comment 1... 
+
 I agree 
+
 > ... and comment 2 
+
 I don't agree with this 
 
 
