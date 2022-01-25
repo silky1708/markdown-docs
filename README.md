@@ -75,3 +75,9 @@ I don't agree with this
 - removed line
 + added line
 ```
+
+
+#### adding links and images
+
+[Search Google](https://www.google.com)   
+![alt text for this image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.6l_qfTt4t-yhfyIaf1NAMAHaE8%26pid%3DApi&f=1)
