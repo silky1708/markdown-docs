@@ -66,7 +66,7 @@ I don't agree with this
 
 | column 1 | column 2 | column 3 | 
 | :---: | :--- | ---: | 
-| centered | left-centered | right-centered | 
+| centered | left-aligned | right-aligned | 
 
 
 #### using diff 
